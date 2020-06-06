@@ -1,6 +1,6 @@
-#README
+# README
 
-##Portfolio Website
+## Portfolio Website
 
 **NAME :** Arun Bhagat
 
