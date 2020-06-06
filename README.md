@@ -39,3 +39,18 @@ The website consists of a simplistic Welcome page(with Typed Animation), a conve
 - Smooth effects (scrolling, slideshow and opacity change)
 - Representation of skills using graphical objects rather than standard lists.
 - A professional and adaptable flexbox design with clear seperarion of sections.
+
+**PROBLEMS FACED**
+
+1. Setting styles and colors for each element resulted in a confusing and bug-ridden design, I fixed it by revamping the stylesheet and using standard bootstrap and w3 recommended designs throughout the website.
+2. Often absolute layout caused sections to be drifted in multiple lines, I fixed it my using only flexbox layouts making the website neater and adaptable
+3. Scrolling among sections by using navlinks looked abrupt, I fixed it by making scrolling smooth with the use of cubic-bezier animations.
+4. NavBar covered background images in specific sections causing the page to look odd(in the Skills section), i fixed it by changing the opacity of the NavBar in those sections.
+
+**SCOPE OF IMPROVEMENT**
+
+I wanted to add tooltips on every skill and expand the skills page to include my recent activities, however I was not able to do so because of the time-crunch faced as many vivas and assignments were given during the project period.
+
+**WHAT YOU LEARNED?**
+
+This was the first complete front-end project I ever made and this really helped me to develop practical knowledge of front-end scripting, designing and basic animation. I also learned to create the project using standards provided by the web making it more user-friendly and professional looking.
